@@ -1,4 +1,4 @@
-Profile
-Nama  : Fathurrohman
-NIM   : 123190052
-Kelas : B
+- Profile
+- Nama  : Fathurrohman
+- NIM   : 123190052
+- Kelas : B
